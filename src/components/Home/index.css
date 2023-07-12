@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  padding: 30px;
+}
+.mini-container {
+  background-image: linear-gradient(to bottom, #2b2c49, #303150, #b5b9ff);
+  padding: 30px;
+  border-radius: 10px;
+}
+.heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.button {
+  color: #303150;
+  font-size: 15px;
+  font-family: 'Roboto';
+  border-radius: 5px;
+}
